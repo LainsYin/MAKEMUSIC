@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/title.qss</file>
+        <file>Resources/img/logo.ico</file>
+    </qresource>
+    <qresource prefix="/arrow">
+        <file>Resources/images/arrow.png</file>
+        <file>Resources/images/expansion.png</file>
+        <file>Resources/images/pause.png</file>
+        <file>Resources/images/preview_hovering.png</file>
+        <file>Resources/images/minimum_disable.png</file>
+        <file>Resources/images/minimum_hovering.png</file>
+        <file>Resources/images/minimum_normal.png</file>
+        <file>Resources/images/minimum_pressed.png</file>
+        <file>Resources/images/plus_gray.png</file>
+        <file>Resources/images/plus_normal.png</file>
+        <file>Resources/images/plus_on.png</file>
+        <file>Resources/images/plus_pressed.png</file>
+    </qresource>
+</RCC>
